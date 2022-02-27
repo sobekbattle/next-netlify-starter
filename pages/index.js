@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Full Contact Crypto" />
+        <Header title="Sobek Battle" />
+        <div>coming soon</div>
       </main>
 
       <Footer />
