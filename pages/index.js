@@ -12,8 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Sobek Battle" />
-        <div><img src="/sobek.png" alt="sobek">
-</div>
+        <div><img src="/sobek.png" alt="sobek"/></div>
         <div>coming soon</div>
       </main>
 
