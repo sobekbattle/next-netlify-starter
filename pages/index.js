@@ -14,7 +14,10 @@ export default function Home() {
       <main>
         <Header title="Sobek Battle" />
         <div>
-        <Image layout="fill" objectFit="cover" src="/sobek.png" />
+        <Image llayout="responsive"
+        width={500}
+        height={500} 
+        src="/sobek.png" />
         </div>
         <div>coming soon</div>
       </main>
