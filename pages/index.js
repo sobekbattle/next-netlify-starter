@@ -12,6 +12,9 @@ export default function Home() {
 
       <main>
         <Header title="Sobek Battle" />
+        <div className="w-full overflow-hidden relative" style={{ height: '30vh' }}>
+        <Image layout="fill" objectFit="cover" src="/sobek.png" />
+    </div>
         <div>coming soon</div>
       </main>
 
