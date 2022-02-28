@@ -13,8 +13,7 @@ export default function Home() {
 
       <main>
         <Header title="Sobek Battle" />
-        <div className="pt-2" style={{  position: 'relative', width: '50vw', height: '50vw'}}>
-        Sobek Battle
+        <div className="pt-2" style={{  position: 'relative', width: '25vw', height: '25vw'}}>
         <Image 
         layout="fill"
         objectFit="cover" 
