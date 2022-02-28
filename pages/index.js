@@ -13,12 +13,12 @@ export default function Home() {
 
       <main>
         <Header title="Sobek Battle" />
-        
-        <Image llayout="responsive"
-        width={500}
-        height={500} 
+        <div className="pt-2" style={{  position: 'relative', width: '100vw', height: '66.66vw'}}>
+        <Image 
+        layout="fill"
+        objectFit="cover" 
         src="/sobek.png" />
-        
+        </div>
         <div>coming soon</div>
       </main>
 
