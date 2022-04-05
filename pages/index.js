@@ -13,7 +13,8 @@ export default function Home() {
 
       <main>
         <Header title="Sobek Battle" />
-        <div className="pt-2" style={{  position: 'relative', width: '25vw', height: '25vw'}}>
+        <div className="pt-2" style={{  position: 'relative', width: '25vw', height: '25vw'}}>In ancient times, a great beast walked the Earth with men. Some late remnant of an even more ancient planet, these hulking beast were surprisingly friendly and devoted to anyone who fed them.
+
         <Image 
         layout="fill"
         objectFit="cover" 
